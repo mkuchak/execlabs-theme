@@ -1,0 +1,38 @@
+{
+    "name": "execlabs",
+    "displayName": "ExecLabs",
+    "description": "ExecLabs",
+    "version": "0.0.1",
+    "publisher": "ExecLabs",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkuchak/execlabs-theme"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ExecLabs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ExecLabs-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "execlabs",
+        "exec",
+        "ruby on rails",
+        "laravel",
+        "adonis",
+        "adonisjs",
+        "black blue",
+        "awesome theme"
+    ]
+}
